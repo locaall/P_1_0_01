@@ -1,7 +1,4 @@
 // P_1_0_01
-//
-// Projekat koji se nalazi u knjizi "Generative Design"
-// Ovo predstavlja takodje i prvi zadatak u knjizi
 
 void setup() {
   size(720, 720);
